@@ -6,7 +6,7 @@ export default function Header(){
             <div>Logo</div>
             <div className="flex">
                 <Link href="/users">Users</Link>
-                <Link href="/users/profile">Profile</Link>
+                <Link href="/users/profile">Products</Link>
             </div>
         </header>
     )
